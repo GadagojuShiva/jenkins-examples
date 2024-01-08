@@ -1,3 +1,26 @@
+# Spring Boot Application Deployment with ArgoCD, Jenkins, SonarQube, Maven, and Kubernetes
+
+This project demonstrates the deployment of a Spring Boot application in Kubernetes using ArgoCD for continuous delivery, Jenkins for CI/CD, SonarQube for code quality analysis, Maven for build management, and Kubernetes for container orchestration.
+
+## Project Overview
+
+This project showcases the deployment of a Spring Boot application in a Kubernetes cluster using industry-standard tools for continuous integration, continuous deployment, and code quality monitoring.
+## Architecture
+
+![Alt Text](https://github.com/GadagojuShiva/jenkins-examples/blob/main/Architecture.jpg)
+
+## Prerequisites
+
+Before getting started, ensure you have the following prerequisites installed and configured:
+
+- Java Development Kit (JDK)
+- Maven
+- Docker
+- Kubernetes cluster
+- Jenkins
+- ArgoCD
+- SonarQube
+
 # Jenkins Installation and Docker Configuration
 
 ## Install Java (JDK)
